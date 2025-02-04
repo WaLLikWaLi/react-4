@@ -1,0 +1,15 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 0;
+}
+li {
+  width: 20%;
+  padding: 0;
+  margin: 1px 24px;
+}
+.picture {
+  width: 23vw;
+  height: 170px;
+}
